@@ -1,0 +1,2 @@
+<class 'set'>
+{'apricots', 'apples', 'avocados'}

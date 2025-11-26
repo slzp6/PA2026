@@ -1,0 +1,8 @@
+--- equal
+n1 == n2 True
+n1 == n3 False
+--- not equal
+n1 != n2 False
+n1 != n3 True
+---
+n3 == n4 True

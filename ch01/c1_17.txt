@@ -1,0 +1,1 @@
+b'Japan' <class 'bytes'>

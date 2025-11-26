@@ -1,0 +1,16 @@
+--- keys and values
+apples 10
+apricots 30
+avocados 50
+--- items
+apples 10
+apricots 30
+avocados 50
+--- keys
+apples
+apricots
+avocados
+--- values
+10
+30
+50

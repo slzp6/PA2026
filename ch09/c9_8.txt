@@ -1,0 +1,3 @@
+--- before the function call. ---
+Hello!
+--- after the function call. ---

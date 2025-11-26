@@ -1,0 +1,2 @@
+{'apricots', 'apples', 'avocados'}
+{'apricots', 'apples', 'bananas', 'melons', 'avocados'}

@@ -1,0 +1,5 @@
+---
+m1 > m2 True
+m1 > m3 True
+m2 > m3 True
+m1 > m4 False

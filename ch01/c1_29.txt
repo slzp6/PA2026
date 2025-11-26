@@ -1,0 +1,5 @@
+decimal number    : 8086
+binary number     : 1111110010110
+octal number      : 17626
+hexadecimal number: 1f96
+hexadecimal number: 1F96

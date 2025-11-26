@@ -1,0 +1,3 @@
+(10, 20, 30, 40) <class 'tuple'>
+[10, 20, 30, 40] <class 'list'>
+(10, 20, 30, 40) <class 'tuple'>

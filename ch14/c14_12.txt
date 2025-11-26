@@ -1,0 +1,14 @@
+
+Python 3.12 では、Matplotlib の日本語表示に使われてきた
+japanize-matplotlib が動作しません。内部で依存していた
+distutils が削除されたためで、インポート時にエラーが発
+生します。
+
+その代わりとして、matplotlib-fontja が有効です。Python
+3.12 に対応しており、読み込むだけで日本語フォントが自
+動設定されるため、もっとも手軽に利用できます。
+
+また、Noto Sans JP などのフォントを直接指定する方法も
+確実で、seaborn や rcParams に設定を上書きされる問題を
+避けられます。
+

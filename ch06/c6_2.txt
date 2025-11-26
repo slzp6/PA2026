@@ -1,0 +1,2 @@
+<class 'dict'>
+{'apples': 10, 'apricots': 30, 'avocados': 50}

@@ -1,0 +1,4 @@
+['bag', 'bar', 'bark']
+bag, True
+bee, False
+bark, True

@@ -1,0 +1,8 @@
+<class 'h5py._hl.dataset.Dataset'>
+<HDF5 dataset "nums": shape (8,), type "<i8">
+---
+<class 'numpy.ndarray'>
+[34 33 50 50 40  0 46  2]
+---
+<class 'list'>
+[np.int64(34), np.int64(33), np.int64(50), np.int64(50), np.int64(40), np.int64(0), np.int64(46), np.int64(2)]

@@ -1,0 +1,5 @@
+original:    computer science
+capitalize:  Computer science
+upper:       COMPUTER SCIENCE
+lower:       computer science
+title:       Computer Science

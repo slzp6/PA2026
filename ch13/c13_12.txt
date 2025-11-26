@@ -1,0 +1,25 @@
+         name  weight  price
+r0      apple      10     40
+r1     banana      20     50
+r2  cranberry      30     60
+
+--- head(2)
+      name  weight  price
+r0   apple      10     40
+r1  banana      20     50
+
+--- tail(2)
+         name  weight  price
+r1     banana      20     50
+r2  cranberry      30     60
+
+--- describe (price)
+count     3.0
+mean     50.0
+std      10.0
+min      40.0
+25%      45.0
+50%      50.0
+75%      55.0
+max      60.0
+Name: price, dtype: float64

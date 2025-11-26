@@ -1,0 +1,9 @@
+{'kiwi': [30, 'B'], 'grape': [10, 'C'], 'pineapple': [20, 'A']}
+---
+grape [10, 'C']
+kiwi [30, 'B']
+pineapple [20, 'A']
+---
+grape 10
+kiwi 30
+pineapple 20

@@ -1,0 +1,3 @@
+b'Tokyo' <class 'bytes'>
+bytearray(b'Tokyo') <class 'bytearray'>
+bytearray(b'Aokyo')

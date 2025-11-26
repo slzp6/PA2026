@@ -1,0 +1,1 @@
+[{'name': 'apple', 'qty': 30}, {'name': 'banana', 'qty': 10}, {'name': 'cranberry', 'qty': 20}]

@@ -1,0 +1,2 @@
+{'apple': 100, 'banana': 200, 'cherry': 300}
+{'APPLE': 200.0, 'BANANA': 400.0, 'CHERRY': 600.0}

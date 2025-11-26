@@ -1,0 +1,9 @@
+--- 1
+Open+University
+('Open', '+', 'University')
+--- 2
+The+Open++University
+('The+Open', '++', 'University')
+--- 3
+The+Open+University
+('The+Open+University', '', '')

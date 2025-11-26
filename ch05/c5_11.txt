@@ -1,0 +1,3 @@
+apple 300
+banana 150
+cherry 10

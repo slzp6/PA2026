@@ -1,0 +1,2 @@
+Japan <class 'str'>
+b'Japan' <class 'bytes'>

@@ -1,0 +1,8 @@
+{'avocados', 'apricots', 'apples'}
+---
+avocados
+apricots
+apples
+---
+True
+False

@@ -1,0 +1,13 @@
+2 is a prime number
+3 is a prime number
+4 equals 2 * 2
+5 is a prime number
+6 equals 2 * 3
+7 is a prime number
+8 equals 2 * 4
+9 equals 3 * 3
+10 equals 2 * 5
+11 is a prime number
+12 equals 2 * 6
+13 is a prime number
+14 equals 2 * 7

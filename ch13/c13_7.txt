@@ -1,0 +1,7 @@
+         name  weight  price
+r0      apple      10     40
+r1     banana      20     50
+r2  cranberry      30     60
+---
+loc:  60
+iloc:  60

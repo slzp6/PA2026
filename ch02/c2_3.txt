@@ -1,0 +1,4 @@
+X: 10
+Y: 0
+division by zero
+done!

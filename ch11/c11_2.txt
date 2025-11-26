@@ -1,0 +1,2 @@
+100
+<class '__main__.MyClass'>

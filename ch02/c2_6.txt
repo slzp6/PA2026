@@ -1,0 +1,14 @@
+--- addition
+6
+6
+--- multiplication
+6
+6
+--- subtraction
+-4
+-4
+2
+--- division
+0.16666666666666666
+0.16666666666666666
+1.5

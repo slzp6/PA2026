@@ -1,0 +1,4 @@
+frozenset({'apple', 'cherry', 'banana'})
+<class 'frozenset'>
+---
+{'update', 'intersection_update', 'difference_update', '__iand__', 'clear', '__ior__', 'remove', 'pop', 'symmetric_difference_update', 'discard', '__isub__', 'add', '__ixor__'}

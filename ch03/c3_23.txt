@@ -1,0 +1,2 @@
+['append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'] 11
+['count', 'index'] 2

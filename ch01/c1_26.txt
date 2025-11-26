@@ -1,0 +1,3 @@
+right : ----------Japan
+center: -----Japan-----
+left  : Japan----------

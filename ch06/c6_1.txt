@@ -1,0 +1,6 @@
+<class 'dict'>
+['apples', 'apricots', 'avocados']
+---
+dict_keys(['apples', 'apricots', 'avocados'])
+dict_values([100, 30, 50])
+dict_items([('apples', 100), ('apricots', 30), ('avocados', 50)])

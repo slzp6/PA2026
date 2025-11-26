@@ -1,0 +1,22 @@
+          name  weight  price
+r0        None   386.0    NaN
+r1  watermelon   486.0    9.0
+r2        pear     NaN   19.0
+--- A
+     name  weight  price
+r0   True   False   True
+r1  False   False  False
+r2  False    True  False
+--- B
+name      1
+weight    1
+price     1
+dtype: int64
+--- C
+          name  weight  price
+r1  watermelon   486.0    9.0
+--- D
+          name  weight  price
+r0           0   386.0    0.0
+r1  watermelon   486.0    9.0
+r2        pear     0.0   19.0

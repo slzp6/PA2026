@@ -1,0 +1,1 @@
+{'apples': 400, 'apricots': 500, 'avocados': 600}

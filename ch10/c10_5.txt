@@ -1,0 +1,5 @@
+original:    The Open University of Japan
+capitalize:  The open university of japan
+upper:       THE OPEN UNIVERSITY OF JAPAN
+lower:       the open university of japan
+title:       The Open University Of Japan

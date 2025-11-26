@@ -1,0 +1,11 @@
+          name  weight  price
+r0        None   386.0    NaN
+r1  watermelon   486.0    9.0
+r2        pear     NaN   19.0
+r3        pear     NaN   19.0
+--- A
+--- B
+          name  weight  price
+r0        None   386.0    NaN
+r1  watermelon   486.0    9.0
+r2        pear     NaN   19.0

@@ -1,0 +1,17 @@
+name: oujpy311
+dependencies:
+- h5py
+- imageio
+- keras
+- matplotlib
+- numpy
+- pandas
+- pillow
+- plotly
+- psutil
+- pylint
+- python-graphviz
+- seaborn
+- scikit-learn
+- tensorflow
+- yapf

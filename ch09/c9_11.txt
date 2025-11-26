@@ -1,0 +1,4 @@
+--- before the function call ---
+=== args:  ('John', 'Doe')
+Hello,  John Doe
+--- after the function call ---

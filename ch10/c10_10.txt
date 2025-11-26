@@ -1,0 +1,7 @@
+bB bb Bbb
+XB XX BXX
+
+XB bb Bbb
+XB Xb Bbb
+XB XX Bbb
+XB XX BXb

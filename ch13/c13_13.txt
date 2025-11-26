@@ -1,0 +1,24 @@
+--- head(3) 
+   longitude  latitude  ...  median_income  median_house_value
+0    -114.31     34.19  ...         1.4936             66900.0
+1    -114.47     34.40  ...         1.8200             80100.0
+2    -114.56     33.69  ...         1.6509             85700.0
+
+[3 rows x 9 columns]
+--- tail(3)
+       longitude  latitude  ...  median_income  median_house_value
+16997    -124.30     41.84  ...         3.0313            103600.0
+16998    -124.30     41.80  ...         1.9797             85800.0
+16999    -124.35     40.54  ...         3.0147             94600.0
+
+[3 rows x 9 columns]
+--- describe (median_house_value)
+count     17000.000000
+mean     207300.912353
+std      115983.764387
+min       14999.000000
+25%      119400.000000
+50%      180400.000000
+75%      265000.000000
+max      500001.000000
+Name: median_house_value, dtype: float64

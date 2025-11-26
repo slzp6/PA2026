@@ -1,0 +1,5 @@
+mylist : ['a', 'b', ['C', 'd'], 'e']
+shallow: ['A', 'b', ['C', 'd'], 'e']
+---
+mylist:  ['a', 'b', ['c', 'd'], 'e']
+deep:    ['A', 'b', ['C', 'd'], 'e']

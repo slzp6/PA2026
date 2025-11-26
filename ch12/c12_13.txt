@@ -1,0 +1,7 @@
+little
+N:   12190
+bin: 0b10111110011110
+hex: 0x2f9e
+---
+2 bytes; big:    2f9e
+2 bytes; little: 9e2f

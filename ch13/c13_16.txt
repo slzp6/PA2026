@@ -1,0 +1,14 @@
+          name  weight  price
+r0      orange     386     12
+r1  watermelon     486      9
+r2        pear     286     19
+---
+          name  weight  price
+r0      orange     386     12
+r2        pear     286     19
+r1  watermelon     486      9
+---
+          name  weight  price
+r2        pear     286     19
+r0      orange     386     12
+r1  watermelon     486      9

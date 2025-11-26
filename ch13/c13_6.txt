@@ -1,0 +1,6 @@
+{'name': ['apple', 'banana', 'cranberry'], 'weight': [10, 20, 30], 'price': [40, 50, 60]}
+-----
+        name  weight  price
+0      apple      10     40
+1     banana      20     50
+2  cranberry      30     60

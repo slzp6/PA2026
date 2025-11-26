@@ -1,0 +1,5 @@
+dict_keys(['data', 'target', 'frame', 'target_names', 'DESCR', 'feature_names', 'filename', 'data_module'])
+<class 'numpy.ndarray'>
+<class 'numpy.ndarray'>
+(150, 4)
+(150,)
