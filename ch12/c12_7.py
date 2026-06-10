@@ -13,3 +13,15 @@ with open(FILE_PATH, "r", encoding="utf8") as f:
 for i in range(5):
     print(fruits[i:i + 1])
 '''
+
+# Note:
+# This code follows the example in c12_6.py, 
+# so it uses the variable name fruits.
+# However, the file being read is california_housing_test.csv,
+# which contains housing data, not fruit data.
+# Since list(f) creates a list of lines from the file, 
+# names such as lines, csv_lines, or 
+# california_housing_lines would be 
+# more appropriate and easier to understand.
+# 
+# 06/2026
